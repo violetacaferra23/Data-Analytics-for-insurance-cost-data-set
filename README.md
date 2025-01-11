@@ -5,7 +5,6 @@ This project consists of coursera's python data analysis final project.
 I will perform data analytics on a medical insurance charges data set. This is a filtered and modified version of the Medical Insurance Price Prediction dataset, available under the CC0 1.0 Universal License on the Kaggle website.
 
 ## Parameters
-The parameters used in the dataset are:
 
 - Age
 
