@@ -17,9 +17,9 @@ Gender of the insured. This parameter has been mapped to numerical values in the
 
 - Gender	Assigned Value
 
-Female	1
+Female: 1
 
-Male	2
+Male: 2
 
 - BMI
 
@@ -33,11 +33,11 @@ Number of children the insured person has. Integer quantity.
 
 Whether the insured person is a smoker or not. This parameter has been mapped to numerical values in the following way.
 
-- Smoker	Assigned Value
+- Smoker: Assigned Value
 
-Smoker	1
+Smoker: 1
 
-Non smoker	2
+Non smoker: 2
 
 - Region
 
@@ -45,13 +45,13 @@ Which region of the USA does the insured belong to. This parameter has been mapp
 
 - Region	Assigned Value
 
-Northwest	1
+Northwest: 1
 
-Northeast	2
+Northeast: 2
 
-Southwest	3
+Southwest: 3
 
-Southeast	4
+Southeast: 4
 
 - Charges
 
